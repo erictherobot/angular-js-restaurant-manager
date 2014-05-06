@@ -10,9 +10,10 @@ http://jsfiddle.net/erictherobot/S97bS/2/embedded/result/
 
 Installation
 =============================
-  git clone https://github.com/erictherobot/angular-js-restaurant-manager
-  cd angular-js-restaurant-manager
-  open index.html in your browser - it's client-side so no need for a server
+    git clone https://github.com/erictherobot/angular-js-restaurant-manager
+    cd angular-js-restaurant-manager
+    
+open index.html in your browser of choice - it's client-side so no need for a server
   
 Author & Contact
 =============================
