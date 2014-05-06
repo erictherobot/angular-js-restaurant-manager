@@ -3,6 +3,10 @@ angular-js-restaurant-manager
 
 A single page AngularJS app for managing restaurants - coding challenge for potential employment
 
+Demo
+=============================
+
+http://jsfiddle.net/erictherobot/S97bS/2/embedded/result/
 
 Installation
 =============================
