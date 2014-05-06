@@ -17,10 +17,10 @@ open index.html in your browser of choice - it's client-side so no need for a se
   
 Author & Contact
 =============================
-Eric David Smith 
-https://twitter.com/erictherobot
-erictherobot@gmail.com
-http://stopbrain.com
+- Eric David Smith 
+- https://twitter.com/erictherobot
+- erictherobot@gmail.com
+- http://stopbrain.com
 
 License
 =============================
